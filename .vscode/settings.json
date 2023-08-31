@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "bit": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.formatting": "default",
+    "C_Cpp.clang_format_style": "Google"
+}
